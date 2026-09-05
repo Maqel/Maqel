@@ -9,4 +9,13 @@ I am firmly convinced that understanding the broader architectural context is cr
 Feel free to follow my progress and statistics.
 
 <!--START_SECTION:waka-->
+
+```txt
+HTML          10 hrs 53 mins        █████████████████████▒░░░   85.07 %
+Markdown      49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+CSS           41 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Image (svg)   13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Git Config    8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+```
+
 <!--END_SECTION:waka-->
