@@ -11,10 +11,11 @@ Feel free to follow my progress and statistics.
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          3 hrs 13 mins         █████████████▒░░░░░░░░░░░   53.28 %
-HTML         2 hrs 26 mins         ██████████░░░░░░░░░░░░░░░   40.23 %
-JavaScript   22 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+CSS           3 hrs 25 mins         ████████████░░░░░░░░░░░░░   48.45 %
+HTML          2 hrs 50 mins         ██████████░░░░░░░░░░░░░░░   40.31 %
+Image (svg)   24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+JavaScript    22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Other         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
